@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629780857223",
+    "project_id": "beauty-bee-294ff",
+    "storage_bucket": "beauty-bee-294ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629780857223:android:7eecb1e53857d0e2bc5322",
+        "android_client_info": {
+          "package_name": "com.beautybee.app.beautybee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnwzVd5pKuSvJEDqQDfilcduTA4tMnKzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
